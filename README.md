@@ -1,4 +1,4 @@
-# Traces Of the Wheel
+# Traces of the Wheel
 
 A small program that generates a series of randomized hypotrochoids and layouts them in a rectangular grid. Each click of the left mouse button refreshes the scene with a newly generated layout.
 
