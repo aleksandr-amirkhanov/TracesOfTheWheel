@@ -9,3 +9,7 @@ A small program that generates a series of randomized hypotrochoids and layouts 
 <img width="1313" alt="Traces of the Wheel - screenshot 3" src="https://github.com/user-attachments/assets/1a048a83-1502-46d2-a0b2-500a524686d5">
 <img width="1313" alt="Traces of the Wheel - screenshot 4" src="https://github.com/user-attachments/assets/146db6d1-5155-49a7-9d4c-13364f14ca90">
 <img width="1313" alt="Traces of the Wheel - screenshot 5" src="https://github.com/user-attachments/assets/5abd2016-ae59-45c3-b28e-d23a0c33e4b0">
+
+# License
+
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/aleksandr-amirkhanov/TracesOfTheWheel/blob/main/LICENSE) file for details.
